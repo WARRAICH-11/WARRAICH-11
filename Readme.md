@@ -12,7 +12,7 @@
 
 I'm a **BS Software Engineer** and **AI Engineer** from Pakistan — building production-grade web apps and AI products for real clients, not just demos.
 
-- 🧠 **AI Solutions @ Devinity Solutions** — designing and deploying LLM-powered tools for US/North American clients
+- 🧠 **AI Solutions** — designing and deploying LLM-powered tools for US/North American clients
 - ⚡ **Specialties:** LLM integration, RAG pipelines, full-stack SaaS (React + Supabase + Stripe)
 - 🛍️ **Shopify Developer** for commercial fashion and e-commerce brands (Ikhwan Unstitched, Gadgetriix)
 - 🎓 **BS Software Engineering** — Arid Agriculture University, 2025
