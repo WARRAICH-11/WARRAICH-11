@@ -95,13 +95,7 @@ I'm a **BS Software Engineer** and **AI Engineer** from Pakistan — building pr
 
 ---
 
-## 🏆 Trophies
 
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=WARRAICH-11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
@@ -119,7 +113,7 @@ I'm a **BS Software Engineer** and **AI Engineer** from Pakistan — building pr
 
 <div align="center">
 
-**Open to US/North American contracts · Staff augmentation · AI consulting**
+**Open to Remote Projects**
 
 *Building from Pakistan 🇵🇰*
 
