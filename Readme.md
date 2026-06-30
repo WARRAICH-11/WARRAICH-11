@@ -12,11 +12,12 @@
 
 I'm a **BS Software Engineer** and **AI Engineer** from Pakistan — building production-grade web apps and AI products for real clients, not just demos.
 
-- 🧠 **AI Solutions** — designing and deploying LLM-powered tools for US/North American clients
+- 🧠 **AI Solutions** — designing and deploying LLM-powered tools for  clients
 - ⚡ **Specialties:** LLM integration, RAG pipelines, full-stack SaaS (React + Supabase + Stripe)
-- 🛍️ **Shopify Developer** for commercial fashion and e-commerce brands (Ikhwan Unstitched, Gadgetriix)
+- 🛍️ **Shopify Developer** for commercial fashion and e-commerce brands Customized Templates And liquids
 - 🎓 **BS Software Engineering** — Arid Agriculture University, 2025
-- 📜 Cisco certified: Python Essentials 2 · Intro to Modern AI · Data Analytics Essentials
+- 📜 Cisco certified: [Python Essentials 2](https://www.credly.com/badges/87ede3ee-5ef2-4005-b6d8-534f3b2182fa/linked_in_profile) · [Intro to Modern AI](https://www.credly.com/badges/a462810d-f539-4c41-bfe3-301405c4135f/linked_in_profile) · Data Analytics Essentials
+- 📜 Anthropic certified: [Model Context Protocol: Advanced Topics](https://verify.skilljar.com/c/69ui7dmusteu) .
 
 ---
 
