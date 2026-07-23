@@ -1,123 +1,40 @@
-<div align="center">
+## Hi there, I am Hassan Warraich👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hassan%20Warraich&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=56&descAlign=62" width="100%" />
+🖥️ Full-Stack Developer | AI Engineer </br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=6E57F7&center=true&vCenter=true&random=false&width=640&lines=Building+AI-powered+SaaS+products;React+%2F+Next.js+%7C+Node.js+%7C+FastAPI;LLM+Integration+%7C+RAG+%7C+MLOps;Shipping+real+products+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
+🎓 **BS Software Engineering** — Arid Agriculture University, 2025 🇵🇰
 
-</div>
+* 🌍  Building from Pakistan — open to remote projects
+* 🖥️  See my portfolio at [https://warraich-11.is-a.dev](https://warraich-11.is-a.dev)
+* 📜  Certified: [Model Context Protocol: Advanced Topics](https://verify.skilljar.com/c/69ui7dmusteu) (Anthropic) · [Python Essentials 2](https://www.credly.com/badges/87ede3ee-5ef2-4005-b6d8-534f3b2182fa/linked_in_profile) & [Intro to Modern AI](https://www.credly.com/badges/a462810d-f539-4c41-bfe3-301405c4135f/linked_in_profile) (Cisco)
 
----
+I design and deploy LLM-powered tools for clients, build full-stack SaaS (React + Supabase + Stripe), and develop custom Shopify themes/liquids for e-commerce brands.
 
-## 👨‍💻 About Me
+### Skills
 
-I'm a **BS Software Engineer** and **AI Engineer** from Pakistan — building production-grade web apps and AI products for real clients, not just demos.
+<p align="left">
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
-- 🧠 **AI Solutions** — designing and deploying LLM-powered tools for  clients
-- ⚡ **Specialties:** LLM integration, RAG pipelines, full-stack SaaS (React + Supabase + Stripe)
-- 🛍️ **Shopify Developer** for commercial fashion and e-commerce brands Customized Templates And liquids
-- 🎓 **BS Software Engineering** — Arid Agriculture University, 2025
-- 📜 Cisco certified: [Python Essentials 2](https://www.credly.com/badges/87ede3ee-5ef2-4005-b6d8-534f3b2182fa/linked_in_profile) · [Intro to Modern AI](https://www.credly.com/badges/a462810d-f539-4c41-bfe3-301405c4135f/linked_in_profile) · Data Analytics Essentials
-- 📜 Anthropic certified: [Model Context Protocol: Advanced Topics](https://verify.skilljar.com/c/69ui7dmusteu) .
+### Featured Projects
 
----
+- 🔹 [**NexusCRM**](https://github.com/WARRAICH-11/NexusCRM) — Open-source CRM SaaS (React, TypeScript, Supabase)
+- 🔹 [**CareerLabs**](https://github.com/WARRAICH-11/CAREERLABS) — AI career guidance SaaS (FastAPI, Stripe, ML)
+- 🔹 [**CoverCraft AI**](https://github.com/WARRAICH-11/CoverCraft-AI) — Cover letter/email generator (Claude API)
+- 🔹 [**NeuroCalm**](https://github.com/WARRAICH-11/NeuroCalm) — AI mental wellness tracker (Gemini API, Firebase)
 
-## 🛠️ Tech Stack
+### Socials
 
-**Frontend**
+<p align="left"> <a href="https://github.com/WARRAICH-11" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hassanwarraich11" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/resillientbeing/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white)
+<div align="left">
 
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-**AI / ML**
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Claude API](https://img.shields.io/badge/Claude_API-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge&logo=chainlink&logoColor=white)
-
-**Commerce & Payments**
-
-![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
-
-**Tools & Platforms**
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|:--|:--|:--|
-| [**NexusCRM**](https://github.com/WARRAICH-11/NexusCRM) | Production-grade open-source CRM SaaS — pipeline management, contacts, analytics | React 18, TypeScript, Supabase, TanStack Query, shadcn/ui, Framer Motion |
-| [**NeuroCalm**](https://github.com/WARRAICH-11/NeuroCalm) | AI mental wellness platform with mood tracking and behavioral insights | Gemini API, Firebase, React, Recharts |
-| [**CareerLabs**](https://github.com/WARRAICH-11/CAREERLABS) | AI-driven career guidance SaaS with ML recommendations and Stripe billing | Python, FastAPI, Stripe, Supabase, ML |
-| [**CoverCraft AI**](https://github.com/WARRAICH-11/CoverCraft-AI) | Cold email & cover letter generator powered by the Claude API | FastAPI, React, Anthropic API |
-| [**Crypto Tracker**](https://github.com/WARRAICH-11/Crypto-Price-Tracker-App) | Real-time crypto dashboard with live Binance data and technical indicators | React, WebSocket, Chart.js |
-| [**Portfolio**](https://warraich-11.is-a.dev) | Personal portfolio — built to ship, not just to impress | React 18, TypeScript, Tailwind, Framer Motion |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WARRAICH-11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WARRAICH-11&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=WARRAICH-11&theme=highcontrast&count_private=true&hide_border=true&ring=6E57F7&fire=6E57F7&currStreakLabel=6E57F7)](https://git.io/streak-stats)
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=WARRAICH-11&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+## ❤ Views and Followers
+<div>
+    <img src="https://komarev.com/ghpvc/?username=WARRAICH-11">
+<img src="https://img.shields.io/github/followers/WARRAICH-11?label=Followers&style=social" alt="GitHub Badge">
 </div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WARRAICH-11&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-warraich--11.is--a.dev-6E57F7?style=for-the-badge&logo=vercel&logoColor=white)](https://warraich-11.is-a.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hassanwarraich11-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassanwarraich11)
-[![Instagram](https://img.shields.io/badge/Instagram-@resillientbeing-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/resillientbeing/)
-
-</div>
-
----
-
-<div align="center">
-
-**Open to Remote Projects**
-
-*Building from Pakistan 🇵🇰*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
