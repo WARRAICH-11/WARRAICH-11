@@ -1,4 +1,4 @@
-## HASSAN WARRAICH👋
+## **HASSAN WARRAICH**
 
 🖥️ Full-Stack Developer | AI Engineer </br>
 
