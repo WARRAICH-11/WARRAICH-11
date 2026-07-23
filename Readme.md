@@ -1,4 +1,4 @@
-## Hi there, I am Hassan Warraich👋
+## HASSAN WARRAICH👋
 
 🖥️ Full-Stack Developer | AI Engineer </br>
 
@@ -33,7 +33,7 @@ I design and deploy LLM-powered tools for clients, build full-stack SaaS (React 
 
 </div>
 
-## ❤ Views and Followers
+##  Views and Followers
 <div>
     <img src="https://komarev.com/ghpvc/?username=WARRAICH-11">
 <img src="https://img.shields.io/github/followers/WARRAICH-11?label=Followers&style=social" alt="GitHub Badge">
