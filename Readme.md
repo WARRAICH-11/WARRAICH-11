@@ -28,9 +28,7 @@ I design and deploy LLM-powered tools for clients, build full-stack SaaS (React 
 <p align="left"> <a href="https://github.com/WARRAICH-11" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hassanwarraich11" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/resillientbeing/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
 <div align="left">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=WARRAICH-11&theme=highcontrast&count_private=true&hide_border=true&ring=6E57F7&fire=6E57F7&currStreakLabel=6E57F7)](https://git.io/streak-stats)
-
 </div>
 
 ##  Views and Followers
