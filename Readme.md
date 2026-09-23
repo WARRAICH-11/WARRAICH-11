@@ -1,36 +1,23 @@
-## **HASSAN WARRAICH**
+# Hassan here!
 
-🖥️ Full-Stack Developer | AI Engineer </br>
+### Software Engineer • AI Engineer • Full-Stack Developer
 
-🎓 **BS Software Engineering** — Arid Agriculture University, 2025 🇵🇰
+I build **AI-powered products, full-stack applications, and automation systems**.
 
-* 🌍  Building from Pakistan — open to remote projects
-* 🖥️  See my portfolio at [https://warraich-11.is-a.dev](https://warraich-11.is-a.dev)
-* 📜  Certified: [Model Context Protocol: Advanced Topics](https://verify.skilljar.com/c/69ui7dmusteu) (Anthropic) · [Python Essentials 2](https://www.credly.com/badges/87ede3ee-5ef2-4005-b6d8-534f3b2182fa/linked_in_profile) & [Intro to Modern AI](https://www.credly.com/badges/a462810d-f539-4c41-bfe3-301405c4135f/linked_in_profile) (Cisco)
-
-I design and deploy LLM-powered tools for clients, build full-stack SaaS (React + Supabase + Stripe), and develop custom Shopify themes/liquids for e-commerce brands.
-
-### Skills
+###  Tech Stack
 
 <p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,fastapi,tailwind,mongodb,postgres,supabase,docker,githubactions,git&perline=8" />
 </p>
 
-### Featured Projects
+###  AI Engineering
 
-- 🔹 [**NexusCRM**](https://github.com/WARRAICH-11/NexusCRM) — Open-source CRM SaaS (React, TypeScript, Supabase)
-- 🔹 [**CareerLabs**](https://github.com/WARRAICH-11/CAREERLABS) — AI career guidance SaaS (FastAPI, Stripe, ML)
-- 🔹 [**CoverCraft AI**](https://github.com/WARRAICH-11/CoverCraft-AI) — Cover letter/email generator (Claude API)
-- 🔹 [**NeuroCalm**](https://github.com/WARRAICH-11/NeuroCalm) — AI mental wellness tracker (Gemini API, Firebase)
+`LLMs` · `RAG` · `AI Agents` · `OpenAI API` · `Vector Databases` · `AI Automation`
 
-### Socials
+###  Currently Building
 
-<p align="left"> <a href="https://github.com/WARRAICH-11" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hassanwarraich11" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/resillientbeing/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+AI systems focused on **LLMs, RAG, agents, backend architecture, and real-world automation**.
 
+### 🔗 Connect
 
-
-##  Views and Followers
-<div>
-    <img src="https://komarev.com/ghpvc/?username=WARRAICH-11">
-<img src="https://img.shields.io/github/followers/WARRAICH-11?label=Followers&style=social" alt="GitHub Badge">
-</div>
+[Portfolio](https://warraich-11.is-a.dev/) · [LinkedIn](https://www.linkedin.com/in/hassanwarraich11/) · [GitHub](https://github.com/WARRAICH-11)
